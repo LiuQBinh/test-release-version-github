@@ -1,5 +1,5 @@
 {
-  "name": "test-release-version-github",
+  "name": "@ggj/test-release-version-github",
   "version": "1.0.13",
   "description": "",
   "main": "index.js",
@@ -10,8 +10,12 @@
   "author": "",
   "license": "ISC",
   "packageManager": "pnpm@10.10.0",
+  "publishConfig": {
+    "registry": "http://registry.gogojungle.net/"
+  },
   "devDependencies": {
     "@changesets/changelog-github": "^0.5.1",
-    "@changesets/cli": "^2.27.1"
+    "@changesets/cli": "^2.27.1",
+    "changesets": "^1.0.2"
   }
 }
