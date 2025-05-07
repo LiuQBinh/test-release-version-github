@@ -53,7 +53,7 @@ jobs:
       #     NODE_ENV: "production"
 
       - name: Create GitHub Release
-        uses: changesets/action@v1
+        uses: changesets/action@v1.4.1
         with:
           commit: "chore(release): version packages"
           title: "chore(release): version packages"
