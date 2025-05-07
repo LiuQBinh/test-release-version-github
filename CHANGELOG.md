@@ -1,5 +1,15 @@
 # test-release-version-github
 
+## 4.0.0
+
+### Major Changes
+
+- [`47d0107`](https://github.com/LiuQBinh/test-release-version-github/commit/47d0107dfff64b38c5f9d02a75be6086b695294c) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1111
+
+### Patch Changes
+
+- [`47d0107`](https://github.com/LiuQBinh/test-release-version-github/commit/47d0107dfff64b38c5f9d02a75be6086b695294c) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1
+
 ## 3.0.1
 
 ### Patch Changes

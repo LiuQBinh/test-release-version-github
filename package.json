@@ -1,6 +1,6 @@
 {
   "name": "@liuqbinh/test-release-version-github",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
