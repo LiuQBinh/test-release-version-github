@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 1.0.4
+
+### Patch Changes
+
+- cae0f2a: add 8
+
 ## 1.0.3
 
 ### Patch Changes
