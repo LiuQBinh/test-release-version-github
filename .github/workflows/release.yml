@@ -24,6 +24,9 @@ jobs:
 
       - run: pnpm install
 
+      - name: Version packages
+        run: pnpm changeset version
+
       - name: Create GitHub Release
         uses: changesets/action@v1
         with:
