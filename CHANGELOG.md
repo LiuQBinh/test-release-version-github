@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 5.0.0
+
+### Major Changes
+
+- [`600124e`](https://github.com/LiuQBinh/test-release-version-github/commit/600124e9d4d86ed62977646445fa5b9e79bd6b29) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 124
+
 ## 4.0.1
 
 ### Patch Changes
