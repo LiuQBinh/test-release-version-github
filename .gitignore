@@ -1,7 +1,4 @@
-./node_modules
-./dist
-./coverage
-./build
-./dist
-./coverage
-./build
+node_modules/**
+dist/**
+coverage/**
+build/**
