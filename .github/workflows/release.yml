@@ -50,6 +50,8 @@ jobs:
       - name: Create GitHub Release
         uses: changesets/action@v1
         with:
+          commit: "chore(release): version packages"
+          title: "chore(release): version packages"
           publish: echo "no publish step, only release created"
           createGithubReleases: true
         env:
