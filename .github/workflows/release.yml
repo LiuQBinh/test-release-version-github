@@ -49,6 +49,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REGISTRY_AUTH_TOKEN: ${{ secrets.REGISTRY_AUTH_TOKEN }}
+          NPM_TOKEN: ${{ secrets.REGISTRY_AUTH_TOKEN }}
           NODE_ENV: "production"
 
       - name: Push Git tags
