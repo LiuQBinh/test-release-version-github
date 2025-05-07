@@ -1,5 +1,21 @@
 # test-release-version-github
 
+## 2.0.0
+
+### Major Changes
+
+- 1
+
+### Patch Changes
+
+- 12121
+
+## 1.1.2
+
+### Patch Changes
+
+- test
+
 ## 1.1.1
 
 ### Patch Changes
