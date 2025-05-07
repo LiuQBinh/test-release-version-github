@@ -55,6 +55,9 @@ jobs:
       - name: Create GitHub Release
         uses: changesets/action@v1
         with:
+          commit: "chore(release): version packages"
+          title: "chore(release): version packages"
+          version: node .github/changeset-version.js
           publish: npx changeset publish
           createGithubReleases: true
         env:
