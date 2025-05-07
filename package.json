@@ -11,6 +11,6 @@
   "license": "ISC",
   "packageManager": "pnpm@10.10.0",
   "devDependencies": {
-    "changeset": "^0.2.6"
+    "@changesets/cli": "^2.27.1"
   }
 }
