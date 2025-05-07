@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 1.0.14
+
+### Patch Changes
+
+- [`2cfe9a1`](https://github.com/LiuQBinh/test-release-version-github/commit/2cfe9a185b7fc3db321c5ed410565415095205ce) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - test
+
 ## 1.0.13
 
 ### Patch Changes
