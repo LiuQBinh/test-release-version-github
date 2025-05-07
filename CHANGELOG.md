@@ -1,5 +1,19 @@
 # test-release-version-github
 
+## 3.0.1
+
+### Patch Changes
+
+- [`ee59bf3`](https://github.com/LiuQBinh/test-release-version-github/commit/ee59bf3b9476ee07b487bc2964b803376db3260c) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 2
+
+- [`31f0997`](https://github.com/LiuQBinh/test-release-version-github/commit/31f09970cb8b4aab3d2c46055205ba236daf6834) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 2222
+
+- [#7](https://github.com/LiuQBinh/test-release-version-github/pull/7) [`81d28b5`](https://github.com/LiuQBinh/test-release-version-github/commit/81d28b501d3c92fbd419a1286f331c1bcd1d5504) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1
+
+- [`c36455c`](https://github.com/LiuQBinh/test-release-version-github/commit/c36455c3c4a6b594f72e6279de5571436d763572) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 3
+
+- [#9](https://github.com/LiuQBinh/test-release-version-github/pull/9) [`7ba27b7`](https://github.com/LiuQBinh/test-release-version-github/commit/7ba27b7738ee76e73a6613cf40418e2c0022aa9e) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1
+
 ## 3.0.0
 
 ### Major Changes
