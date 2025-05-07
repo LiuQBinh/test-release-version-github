@@ -22,7 +22,7 @@ jobs:
           node-version: 18
           cache: 'pnpm'
 
-      # - run: pnpm install
+      - run: pnpm install
 
       - name: Version packages
         run: pnpm changeset version
