@@ -25,8 +25,9 @@ jobs:
       - run: pnpm install
 
       - name: Create GitHub Release
-        uses: changesets/action@v1.4.1
+        uses: changesets/action@v1
         with:
-          publish: echo "no publish step, only release created"
+          version: npx changeset version
+          publish: npx changeset publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
