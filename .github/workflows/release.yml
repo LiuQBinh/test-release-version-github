@@ -24,13 +24,12 @@ jobs:
 
       - run: pnpm install
 
-      - name: Version packages
-        run: pnpm changeset version
-
-      - name: Create GitHub Release
+      # Bước chính để tạo PR hoặc tạo release
+      - name: Version or Publish using Changesets
         uses: changesets/action@v1
         with:
           version: pnpm changeset version
-          publish: echo "no publish step, only release created"
+          commit: "chore(release): version packages"
+          title: "chore(release): version packages"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
