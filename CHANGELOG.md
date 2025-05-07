@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 1.1.1
+
+### Patch Changes
+
+- [`79ced23`](https://github.com/LiuQBinh/test-release-version-github/commit/79ced239a8b3598219324ac8fc4b1e92dccfe2c8) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1
+
 ## 1.1.0
 
 ### Minor Changes
