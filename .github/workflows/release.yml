@@ -26,8 +26,5 @@ jobs:
 
       - name: Create GitHub Release
         uses: changesets/action@v1
-        with:
-          publish: echo "no publish step, only release created"
-          createGithubReleases: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
