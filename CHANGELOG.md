@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 1.1.0
+
+### Minor Changes
+
+- test
+
 ## 1.0.17
 
 ### Patch Changes
