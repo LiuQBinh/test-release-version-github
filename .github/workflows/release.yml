@@ -31,5 +31,14 @@ jobs:
           version: pnpm changeset version
           commit: "chore(release): version packages"
           title: "chore(release): version packages"
+          createGithubReleases: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create GitHub Release
+        uses: changesets/action@v1
+        with:
+          publish: pnpm changeset version
+          createGithubReleases: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
