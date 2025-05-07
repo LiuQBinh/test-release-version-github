@@ -1,5 +1,12 @@
 # test-release-version-github
 
+## 1.0.5
+
+### Patch Changes
+
+- 44d32bc: test
+- a7b0e8e: test
+
 ## 1.0.4
 
 ### Patch Changes
