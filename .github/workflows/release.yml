@@ -2,20 +2,35 @@ name: Create GitHub Release
 
 on:
   push:
-    tags:
-      - 'v*'
-
-permissions:
-  contents: write  # 🔑 Cho phép tạo release
+    branches:
+      - main
 
 jobs:
   release:
+    name: Version and release
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9.0.6
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'pnpm'
+
+      # - run: pnpm install
+
+      - name: Version packages
+        run: pnpm changeset version
 
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v1
+        uses: changesets/action@v1
         with:
-          tag_name: ${{ github.ref_name }}
+          version: pnpm changeset version
+          publish: echo "no publish step, only release created"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
