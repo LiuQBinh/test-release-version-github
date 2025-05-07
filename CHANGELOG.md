@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 1.0.7
+
+### Patch Changes
+
+- cd9d619: test
+
 ## 1.0.6
 
 ### Patch Changes
