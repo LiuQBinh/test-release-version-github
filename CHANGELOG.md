@@ -1,5 +1,17 @@
 # test-release-version-github
 
+## 8.0.0
+
+### Major Changes
+
+- [`c582c64`](https://github.com/LiuQBinh/test-release-version-github/commit/c582c64376f42399f32cf5859b2c7a1ae6e36c84) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 12334
+
+### Patch Changes
+
+- [`fc73a49`](https://github.com/LiuQBinh/test-release-version-github/commit/fc73a49355f31c8be46bfe82e66df96275cf30e9) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 444
+
+- [`fc73a49`](https://github.com/LiuQBinh/test-release-version-github/commit/fc73a49355f31c8be46bfe82e66df96275cf30e9) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1
+
 ## 7.1.4
 
 ### Patch Changes
