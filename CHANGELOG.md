@@ -1,5 +1,15 @@
 # test-release-version-github
 
+## 7.0.0
+
+### Major Changes
+
+- [`ccdc1fb`](https://github.com/LiuQBinh/test-release-version-github/commit/ccdc1fbf1440e26bff7a9c3e9a3961fd1168b321) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1234
+
+### Patch Changes
+
+- [`9b7fc0b`](https://github.com/LiuQBinh/test-release-version-github/commit/9b7fc0b10078911b932964daf24d39448d678a09) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1234
+
 ## 6.1.0
 
 ### Minor Changes
