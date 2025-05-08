@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 8.0.1
+
+### Patch Changes
+
+- [`dfbe73f`](https://github.com/LiuQBinh/test-release-version-github/commit/dfbe73fbb160dbd5baec8a196a2e8c7f6f3ef2f2) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 222
+
 ## 8.0.0
 
 ### Major Changes
