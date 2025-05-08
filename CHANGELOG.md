@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 8.1.0
+
+### Minor Changes
+
+- [`083cc61`](https://github.com/LiuQBinh/test-release-version-github/commit/083cc61647d6334848bd83de3194f972f0f75d0b) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 333
+
 ## 8.0.2
 
 ### Patch Changes
