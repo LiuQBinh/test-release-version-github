@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 8.0.2
+
+### Patch Changes
+
+- [`55aad7b`](https://github.com/LiuQBinh/test-release-version-github/commit/55aad7b8a777cb123c82f48eec7dd2ab84f9ef10) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 999
+
 ## 8.0.1
 
 ### Patch Changes
