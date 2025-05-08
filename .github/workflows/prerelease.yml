@@ -1,4 +1,4 @@
-name: Create GitHub Release
+name: Create GitHub Release - Beta
 
 on:
   pull_request:
