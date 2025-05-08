@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 7.1.3
+
+### Patch Changes
+
+- [`85012df`](https://github.com/LiuQBinh/test-release-version-github/commit/85012dfb7c4950461c37bbf2612f1b1dd997e70b) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 22222
+
 ## 7.1.2
 
 ### Patch Changes
