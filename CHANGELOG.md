@@ -1,5 +1,15 @@
 # test-release-version-github
 
+## 6.0.0
+
+### Major Changes
+
+- [`76bc665`](https://github.com/LiuQBinh/test-release-version-github/commit/76bc665e018dc5fcbff951a333a7560848453d9c) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 8888
+
+### Patch Changes
+
+- [`299694a`](https://github.com/LiuQBinh/test-release-version-github/commit/299694a61968f71c7a4da991ba6b68bcc1f01a10) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1234
+
 ## 5.0.0
 
 ### Major Changes
