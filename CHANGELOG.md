@@ -1,5 +1,13 @@
 # test-release-version-github
 
+## 6.1.0
+
+### Minor Changes
+
+- [`16c3d6e`](https://github.com/LiuQBinh/test-release-version-github/commit/16c3d6e867a0b05b84f77d5e5b3229a19184657e) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 12345
+
+- [`0c03097`](https://github.com/LiuQBinh/test-release-version-github/commit/0c0309765ac98cd3826a451375de5490adc829d0) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 2345
+
 ## 6.0.0
 
 ### Major Changes
