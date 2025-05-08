@@ -1,5 +1,11 @@
 # test-release-version-github
 
+## 7.1.0
+
+### Minor Changes
+
+- [`fefca05`](https://github.com/LiuQBinh/test-release-version-github/commit/fefca058393569c1c00c1014efc2a020553965b6) Thanks [@LiuQBinh](https://github.com/LiuQBinh)! - 1234
+
 ## 7.0.1
 
 ### Patch Changes
